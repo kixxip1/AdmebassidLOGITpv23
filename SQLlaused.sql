@@ -1,0 +1,6 @@
+--mommentaar 
+--SQL SERVER Managment Sruudio
+- -Conect TO:
+--Server Name: (localdb) \mssqllocaldb 
+-- Authentification 2 tüüpi:
+--1. Windows Auth - localdb admini igused
